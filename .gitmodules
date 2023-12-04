@@ -1,0 +1,3 @@
+[submodule "PasswordGenerator"]
+	path = PasswordGenerator
+	url = https://github.com/adichamoli14/PasswordGenerator.git
