@@ -1,3 +1,6 @@
 [submodule "PasswordGenerator"]
 	path = PasswordGenerator
 	url = https://github.com/adichamoli14/PasswordGenerator.git
+[submodule "TicTacToe"]
+	path = TicTacToe
+	url = https://github.com/adichamoli14/TicTacToe.git

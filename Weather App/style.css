@@ -237,6 +237,7 @@ h2{
     position: absolute;
     top: 8%;
     left: 40%;
+    margin-top: 60px;
 }
 
 .error p{
@@ -249,6 +250,6 @@ h2{
     display: none;
 }
 
-.error .active{
+.error.active{
     display: flex;
 }
